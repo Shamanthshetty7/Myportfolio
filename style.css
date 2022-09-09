@@ -218,7 +218,7 @@ section .title span::after{
   align-items: center;
 }
 .about .about-details .left{
-  width:30%;
+  width:45%;
 }
 .about .left img{
   height:400px;
